@@ -235,7 +235,7 @@ agentseal guard --connect                           # guard + live MCP audit
 |----------|-----------|:--------:|
 | **OpenAI** | `--model gpt-4o` | `OPENAI_API_KEY` |
 | **Anthropic** | `--model claude-sonnet-4-5-20250929` | `ANTHROPIC_API_KEY` |
-| **MiniMax** | `--model MiniMax-M2.5` | `MINIMAX_API_KEY` |
+| **MiniMax** | `--model MiniMax-M2.7` | `MINIMAX_API_KEY` |
 | **Ollama** (local, free) | `--model ollama/llama3.1:8b` | No |
 | **LiteLLM** (proxy) | `--model any-model --litellm-url http://...` | Depends |
 | **Any HTTP API** | `--url http://your-agent.com/chat` | No |
